@@ -10,6 +10,7 @@ __pycache__/
 # Virtual environment
 venv/
 env/
+projenv/
 
 # IDE specific files
 .idea/
